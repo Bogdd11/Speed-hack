@@ -3,7 +3,7 @@ local speedValue = 16 -- Default speed value
 
 -- Create GUI
 local gui = Instance.new("ScreenGui")
-gui.Name = "JN HH Gaming"
+gui.Name = "Bogdd"
 gui.Parent = game.Players.LocalPlayer.PlayerGui
 
 local frame = Instance.new("Frame")
